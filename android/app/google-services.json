@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997343053642",
+    "firebase_url": "https://vendas-a5eee.firebaseio.com",
+    "project_id": "vendas-a5eee",
+    "storage_bucket": "vendas-a5eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997343053642:android:e57a1c268499efc24123b3",
+        "android_client_info": {
+          "package_name": "com.example.app_cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997343053642-k1cqakh8inqqh4qtb0g4mf590mb4aeat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFY7ahvPr5C9P2ucCwYPxQwJMw9rSw90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997343053642-k1cqakh8inqqh4qtb0g4mf590mb4aeat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
